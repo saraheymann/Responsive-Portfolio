@@ -215,27 +215,27 @@ footer{
 		margin:0 auto;
 	}
 	.yourName{
-	width: 100px;
+	width: 150px;
 	height: 45px;
 	margin-left: 10px;
 /*	margin-right: 353px;*/
 	margin-top: 12px;
-	font: 12px Georgia, Times, Times New Roman, serif;
+	font: 20px Georgia, Times, Times New Roman, serif;
 /*	position: absolute;
 	color: white;
 	font-weight: bold;*/
-	padding-top: 16px;
+	padding-top: 14px;
 /*	float: left;*/
 }
 table{
 /*	position: absolute;
 	float: left;*/
 	width: 100px;
-	margin-left: 250px;
+	margin-left: 200px;
 /*	margin-right: 200px;*/
 	margin-top: 30px;
 	padding-bottom: 0px;
-	font: 10px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 }
 .contentBox{
@@ -264,7 +264,7 @@ table{
 }
 .profileImage{
 /*	float: left;*/
-	margin: 25px 30px 15px 120px;
+	margin: 25px 30px 15px 100px;
 	height:120px;
 	width: 163px;
 }
@@ -299,7 +299,7 @@ footer{
 	position: absolute;*/
 	width: 217px;
 	height: 163px;
-	margin-left: 20px;
+	margin-left: 75px;
 	margin-top: 595px;
 /*	background-color: #ffffff;
 	border:solid 2px #dddddd; */
