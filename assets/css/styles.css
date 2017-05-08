@@ -242,7 +242,7 @@ table{
 /*	clear: both;
 	float: left;*/
 	width: 100%;
-	height: 550px;
+	height: 530px;
 /*	background-color: #ffffff;
 	border: solid 2px #dddddd;*/
 	margin-left: 0px;
@@ -269,11 +269,12 @@ table{
 	width: 163px;
 }
 .bio{
-/*	font-family: 'Arial','Helvetica Neue', Helvetica, sans-serif;
-	color: #777777;*/
+	font: 20px, 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	/*color: #777777;*/
 	margin-top: 250px;
 	text-align: center;
-	margin-left: 0px;
+	margin-left: 2px;
+	margin-right: 2px;
 	margin-bottom: 10px;
 }
 footer{
