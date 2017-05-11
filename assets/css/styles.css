@@ -130,6 +130,8 @@ table{
 	margin-left: 30px;
 	margin-top: 25px;
 	position: relative;
+	height: 180px;
+	width: 240px;
 }
 .leftLabel{
 	float: left;
@@ -214,9 +216,9 @@ footer{
 	margin-top: 807px;
 }
 
-@media (max-width: 670px) {
+@media (max-width: 640px) {
 	.yourName{
-		width: 670px;
+		width: 640px;
 		height: 45px;
 		margin: 0px;
 		font: 25px Georgia, Times, Times New Roman, serif;
@@ -224,14 +226,14 @@ footer{
 	}
 	header{
 		height:80px;
-		width: 670px;
+		width: 640px;
 		position: static;
 
 	}
 	table {
 		width: 100px;
 		margin-top: 35px;
-		margin-left: 210px;
+		margin-left: 190px;
 		padding-bottom: 0px
 		font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 		word-spacing: 30px;
@@ -239,13 +241,13 @@ footer{
 		border-spacing: 20px;
 	}
 	.contentBox{
-		width: 660px;
+		width: 630px;
 		height: 530px;
 		margin-left: 5px;
 		margin-top: 30px;
 	}
 	.contentHeader{
-		width: 630px;
+		width: 600px;
 		height: 82px;
 		font-size: 25px;
 		margin-left: 15px;
@@ -257,7 +259,7 @@ footer{
 		margin-left: 15px;
 		margin-right: 15px;
 		height: 372px;
-		width: 630px;
+		width: 600px;
 	}
 	.bio{
 		font: 20px, 'Arial','Helvetica Neue', Helvetica, sans-serif;
@@ -268,13 +270,13 @@ footer{
 		margin-bottom: 10px;
 	}
 	.sideBar{
-		width: 660px;
+		width: 630px;
 		height: 163px;
 		margin-top: 590px;
 		margin-left: 5px;
 	}
 	.connectHeader{
-		width: 630px;
+		width: 600px;
 		height: 57px;
 		border-bottom: solid 1px #dddddd;
 		font-weight: bold;
@@ -285,11 +287,11 @@ footer{
 		padding-left: 0px;
 	}
 	.icon{
-	float: left;
-	width: 50px;
-	height:50px;
-	margin-top: 20px;
-	margin-left: 15px;
+		float: left;
+		width: 50px;
+		height:50px;
+		margin-top: 20px;
+		margin-left: 15px;
 }
 	
 	.copyrightText{
@@ -299,12 +301,12 @@ footer{
 	}
 	
 	.nameFormHeader{
-	font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
-	margin-left: 15px;
-	margin-top: 25px;
+		font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+		margin-left: 15px;
+		margin-top: 25px;
 	}
 	.nameForm{
-		width: 630px;
+		width: 600px;
 		height: 30px;
 		margin-left: 15px;
 		text-align: left;
@@ -313,10 +315,10 @@ footer{
 		font-size: 12px;
 	}
 	.submitButton{
-	width: 107px;
-	height: 37px;
-	margin-left: 15px;
-	margin-top: 15px;
+		width: 107px;
+		height: 37px;
+		margin-left: 15px;
+		margin-top: 15px;
 }
 
 	footer{
@@ -330,22 +332,34 @@ footer{
 	.portfolioPictures{
 		clear: all;
 		float: left;
-		margin-left: 30px;
+		margin-left: 15px;
 		margin-top: 35px;
+		margin-bottom: 20px;
+		height: 360px;
+		width: 600px;
+	}
+	.leftLabel{
+		width: 600px;
+		margin-left: 15px;
+	}
+	.rightLabel{
+		width: 600px;
+		margin-left: 15px;
+	}
+	#hangman{
+		margin-top: 405px;
 	}
 	#rpgGame{
-		margin-left: 30px;
-		margin-top: 445px;
+		margin-top: 800px;
 	}
 	#trivia{
-		margin-top: 660px;
+		margin-top: 1195px;
 	}
 	#rutgersInfo{
-		margin-left: 30px;
-		margin-top: 875px;
+		margin-top: 1590px;
 	}
 	#rockPaper{
-		margin-top: 1090px;
+		margin-top: 1985px;
 	}
 	#sideBarResponsive{
 		margin-top: 800px;
