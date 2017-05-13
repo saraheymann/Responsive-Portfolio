@@ -427,8 +427,10 @@ footer{
 	.sideBar{
 		width: 738px;
 		height: 163px;
-		margin-top: 590px;
+		margin-top: 720px;
 		margin-left: 15px;
+		margin-bottom: 30px;
+		float: left
 	}
 	.connectHeader{
 		width: 708px;
@@ -475,15 +477,14 @@ footer{
 		margin-left: 15px;
 		margin-top: 15px;
 		margin-bottom: 10px
-}
-
+	}
 	footer{
-		clear:both;
-		position:absolute;
-		height:78px;
-		width: 100%;
-		margin:0 auto;
-		margin-top: 775px;
+		clear: all;
+		height: 78px;
+		width: 768px;
+	}
+	#footer768{
+		margin-top: 920px;
 	}
 	.portfolioPictures{
 		height: 220px;
