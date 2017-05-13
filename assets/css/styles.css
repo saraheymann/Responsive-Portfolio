@@ -38,6 +38,11 @@ table{
 	font: 18px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 }
+#link{
+	font: 18px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	text-decoration: none;
+}
 .contentBox{
 	clear: both;
 	float: left;
@@ -77,6 +82,7 @@ table{
 	margin-top: 105px;
 	text-align: left;
 	margin-left: 30px;
+	margin-right: 10px;
 }
 
 /*#contactBox{
@@ -116,6 +122,7 @@ table{
 	height: 37px;
 	margin-left: 30px;
 	margin-top: 15px;
+	margin-bottom: 20px;
 	background-color: #4aaaa5;
 	font: 20px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 	color: #ffffff;
