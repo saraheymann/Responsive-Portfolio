@@ -369,3 +369,188 @@ footer{
 	}
 
 }
+@media (max-width: 768px) {
+	.yourName{
+		margin-left: 10px;
+		margin-top: 0px;
+		height: 78px;
+	}
+	header{
+		height:80px;
+		width: 768px;
+		position: static;
+	}
+	table {
+		width: 100px;
+		margin-top: 10px;
+		margin-left: 450px;
+		padding-bottom: 0px
+		font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+		word-spacing: 30px;
+		border-collapse: separate;
+		border-spacing: 20px;
+	}
+	.contentBox{
+		width: 738px;
+		height: 480px;
+		margin-left: 15px;
+		margin-top: 30px;
+	}
+	.contentHeader{
+		width: 708px;
+		height: 82px;
+		font-size: 25px;
+		margin-left: 15px;
+		padding-top: 30px;
+		text-align: left;
+
+	}
+	.profileImage{
+		margin-left: 15px;
+		margin-right: 15px;
+		height: 220px;
+		width: 300px;
+	}
+	.bio{
+		font: 22px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+		margin-left: 10px;
+		margin-right: 2px;
+		margin-bottom: 10px;
+	}
+	.sideBar{
+		width: 738px;
+		height: 163px;
+		margin-top: 590px;
+		margin-left: 15px;
+	}
+	.connectHeader{
+		width: 708px;
+		height: 57px;
+		border-bottom: solid 1px #dddddd;
+		font-weight: bold;
+		text-align: left;
+		font-size: 17px;
+		margin-left: 15px;
+		padding-top: 20px;
+		padding-left: 0px;
+	}
+	.icon{
+		float: left;
+		width: 50px;
+		height:50px;
+		margin-top: 20px;
+		margin-left: 15px;
+}
+	
+	.copyrightText{
+		font: 10px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+		margin-right: 200px;
+		padding-left: 0px;
+	}
+	
+	.nameFormHeader{
+		font: 15px 'Arial','Helvetica Neue', Helvetica, sans-serif;
+		margin-left: 15px;
+		margin-top: 25px;
+	}
+	.nameForm{
+		width: 708px;
+		height: 30px;
+		margin-left: 15px;
+		text-align: left;
+		color: #777777;
+		padding-left: 5px;
+		font-size: 12px;
+	}
+	.submitButton{
+		width: 107px;
+		height: 37px;
+		margin-left: 15px;
+		margin-top: 15px;
+		margin-bottom: 10px
+}
+
+	footer{
+		clear:both;
+		position:absolute;
+		height:78px;
+		width: 100%;
+		margin:0 auto;
+		margin-top: 775px;
+	}
+	.portfolioPictures{
+		height: 220px;
+		width: 280px;
+		margin-left: 60px;
+	}
+	.leftLabel{
+		width: 280px;
+		margin-left: 60px;
+	}
+	.rightLabel{
+		width: 280px;
+		margin-left: 400px;
+	}
+	#hangman{
+		margin-top: 260px;
+	}
+	#rpgGame{
+		margin-top: 260px;
+	}
+	#trivia{
+		margin-top: 500px;
+	}
+	#rutgersInfo{
+		margin-top: 500px;
+	}
+	#rockPaper{
+		margin-top: 740px;
+	}
+	#sideBarResponsive{
+		margin-top: 800px;
+	}
+	#footerPortfolio{
+		margin-top: 1000px;
+	}
+}
+@media(max-width: 980px){
+	.contentBox{
+		height: 680px;
+	}
+	.profileImage{
+		width: 507px;
+		height: 360px;
+	}
+	footer{
+		margin-top: 720px;
+	}
+	.portfolioPictures{
+		width: 527px;
+		height: 380px;
+		margin-left: 20px;
+	}
+	.rightLabel{
+		width: 527px;
+		margin-left: 20px
+	}
+	.leftLabel{
+		width: 527px;
+		margin-left: 20px;
+	}
+	#hangman{
+		margin-top: 425px;
+	}
+	#rpgGame{
+		margin-top: 830px;
+	}
+	#trivia{
+		margin-top: 1235px;
+	}
+	#rutgersInfo{
+		margin-top: 1640px;
+	}
+	#rockPaper{
+		margin-top: 2045px;
+		margin-bottom: 20px;
+	}
+}
