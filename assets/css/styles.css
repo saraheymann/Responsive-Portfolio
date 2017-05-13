@@ -38,7 +38,7 @@ table{
 	font: 18px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 }
-#link{
+.link{
 	font: 18px 'Arial','Helvetica Neue', Helvetica, sans-serif;
 	color: #777777;
 	text-decoration: none;
